@@ -1,2 +1,2 @@
-# Alura
+# AluraPlus
 Cursos Alura
